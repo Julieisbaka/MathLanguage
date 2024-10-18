@@ -1,1 +1,1 @@
-This is a itnerperted math coding language that I am creating.
+This is a interperated math coding language that I am creating.
